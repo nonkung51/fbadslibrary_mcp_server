@@ -9,6 +9,7 @@ greenlet==3.3.2
 h11==0.16.0
 idna==3.11
 playwright==1.58.0
+mcp>=1.0.0
 pydantic==2.12.5
 pydantic-core==2.41.5
 pyee==13.0.1
